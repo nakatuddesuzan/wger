@@ -2,7 +2,6 @@
 # Requirements for wger for production
 #
 
-attrs
 Django>=1.9,<1.10
 django-recaptcha
 reportlab
